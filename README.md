@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ajay Bharwad
+# Ajay Shiyaliya
 
 ### Full-stack product engineer building secure SaaS platforms and developer tools
 
